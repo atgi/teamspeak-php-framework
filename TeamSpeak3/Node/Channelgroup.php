@@ -31,10 +31,10 @@ namespace TeamSpeak3\Node;
  * @class Channelgroug
  * @brief Class describing a TeamSpeak 3 channel group and all it's parameters.
  */
-class Channelgroug extends AbstractNode
+class Channelgroup extends AbstractNode
 {
     /**
-     * The Channelgroug constructor.
+     * The Channelgroup constructor.
      *
      * @param  Server $server
      * @param  array $info
