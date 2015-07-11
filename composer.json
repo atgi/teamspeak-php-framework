@@ -1,5 +1,5 @@
 {
-    "name": "fkubis/teamspeak-php-framework",
+    "name": "atgi/teamspeak-php-framework",
     "type": "library",
     "description": "Clone of TS3 PHP Framework 1.1.23 providing the library as composer project.",
     "keywords": ["teamspeak3"],
